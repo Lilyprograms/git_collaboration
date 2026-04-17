@@ -40,3 +40,15 @@
     padding: 15px;
     letter-spacing: 15px;
 }
+.serices{
+    text-align: center;
+    margin: auto;
+    
+}
+.serices h3{
+    font-family: 35px;
+    margin-bottom: 15px;
+}
+.serices p{
+    font-size: 18px;
+}
